@@ -1,0 +1,83 @@
+
+/*
+nav{display: flex;
+
+}
+ul{ display: flex;
+    align-items:center;
+}
+*/
+#barrasuperior{ background-color: rgba(53, 58, 64, 255);
+    color:white
+}
+ #logo{
+        width: 4cm;
+         height:2cm;
+        
+    }
+    a.navbar-brand{color:white;
+
+    }
+a.nav-link{color:white;
+
+}
+img#fotobuenosaires{filter: brightness(50%);
+    clip-path:inset(18% 0 8% 0);
+position:relative;
+
+}
+
+div#portada{
+    max-width:100%; 
+    height:100%;
+    position:relative;
+    border-radius:0%;
+
+   
+
+}
+.card-img{ bottom: 0%;
+    margin-bottom: 0ch;
+   
+
+}
+#texto{ width:40%;
+height:30%;
+position: absolute;
+bottom: 30%;
+right: 10%;
+text-align: right;
+}
+ button#comprartickets{background-color:rgba(41,167, 68, 255);
+    color: rgb(255, 255, 255);
+    border:0cm;
+
+}
+span{ position: center;
+    text-shadow: 1px;
+
+}
+
+div#cuadrotextohonolulu{
+    background-color:rgba(53,58, 64, 255);
+    color:white;
+    font-size:80%;
+    text-align: left;
+}
+
+div#formulario{ width: 60%;
+height: 20%;
+}
+.form-label{margin:0.3%;
+
+}
+footer{
+    background-color: rgba(29, 55, 68, 255);
+    color: antiquewhite;
+}
+button#enviar{
+    background-color:rgba(150, 201, 62, 255);
+    color:white;
+    border: 0cm;
+    margin-bottom: 3%;
+}
